@@ -1,0 +1,1 @@
+# Task-1-Mathematical-Simple-Linear-Regressor-Easy-
